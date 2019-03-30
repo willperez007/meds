@@ -1,6 +1,6 @@
 # Introduction
 
-The motivation for writing came from the hope that it can help benefit the maritime industry by planting the seeds for the readers in how to tackle such a complex but interesting topic as cybersecurity.  Even if the book just has one maritime company or individual improve their environment and reduce risks then i have achieved my objective. 
+The motivation for writing this book came from the hope that it can benefit the maritime industry by planting the seeds for the readers on how to tackle the problem of such a complex but interesting topic as cybersecurity.  Even if the book just has one maritime company or individual improve their environment and reduce risks then i have achieved my objective. 
 
 If you switch to writing in the Markua syntax instead of Leanpub-Flavored Markdown, please be sure to rename the `images` folder in your `manuscript` folder to `resources.`
 
