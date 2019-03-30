@@ -1,9 +1,8 @@
 # Introduction
 
-We hope this manuscript contains all the basic things you need to know to get started writing a book using Leanpub-Flavored Markdown.
+The motivation for writing came from the hope that it can help benefit the maritime industry by planting the seeds for the readers in how to tackle such a complex but interesting topic as cybersecurity.  Even if the book just has one maritime company or individual improve their environment and reduce risks then i have achieved my objective. 
 
 If you switch to writing in the Markua syntax instead of Leanpub-Flavored Markdown, please be sure to rename the `images` folder in your `manuscript` folder to `resources.`
 
-If there is anything simple that you think we should add, please email us at <hello@leanpub.com>.
+If you have any feedback on the book, please email me at <book@cybersecurityinthehighseas.com>.
 
-We recommend you take a few minutes to explore all the options in the Book Tools menu for your book on Leanpub. We've built a lot of powerful features that can help you write and sell your book!
