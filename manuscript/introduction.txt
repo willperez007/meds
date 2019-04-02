@@ -2,6 +2,8 @@
 
 The motivation for writing this book came from the hope that it can benefit the maritime industry by planting seeds for the readers on how to tackle the problem of such a complex but interesting topic as cybersecurity.  Even if the book just has one maritime company or individual improve their environment and reduce risks then i have achieved my objective. 
 
+Thanks to Jose Perez for being a reviewer of this book
+
 If you switch to writing in the Markua syntax instead of Leanpub-Flavored Markdown, please be sure to rename the `images` folder in your `manuscript` folder to `resources.`
 
 If you have any feedback on the book, please email me at <book@cybersecurityinthehighseas.com>.
