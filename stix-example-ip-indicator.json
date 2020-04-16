@@ -1,4 +1,7 @@
-  "objects": [
+{
+    "type": "bundle",
+    "id": "bundle--56be2a3b-1534-4bef-8fe9-602926274089",
+    "objects": [
         {
 
             "type": "identity",
@@ -42,3 +45,4 @@
         }
 
   ]
+}
