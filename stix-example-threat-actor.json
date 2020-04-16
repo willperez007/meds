@@ -8,8 +8,8 @@
             "id": "threat-actor--9a8a0d25-7636-429b-a99e-b2a73cd0f11f",
             "created": "2015-05-07T14:22:14.760Z",
             "modified": "2015-05-07T14:22:14.760Z",
-            "name": "Adversary Bravo",
-            "description": "Adversary Bravo is known to use phishing attacks to deliver remote access malware to the targets.",
+            "name": "Shipping Threat Actor",
+            "description": "Shipping threat actor is known to use phishing attacks to deliver remote access malware to the maritime soft targets.",
             "threat_actor_types": [
                 "spy",
                 "criminal"
@@ -19,8 +19,8 @@
             "type": "malware",
             "spec_version": "2.1",
             "id": "malware--d1c612bc-146f-4b65-b7b0-9a54a14150a4",
-            "created": "2015-04-23T11:12:34.760Z",
-            "modified": "2015-04-23T11:12:34.760Z",
+            "created": "2020-04-16T11:12:34.760Z",
+            "modified": "2020-04-16T11:12:34.760Z",
             "name": "Poison Ivy Variant d1c6",
             "malware_types": [
                 "remote-access-trojan"
@@ -62,8 +62,8 @@
             "id": "identity--1621d4d4-b67d-41e3-9670-f01faf20d111",
             "created": "2015-05-10T16:27:17.760Z",
             "modified": "2015-05-10T16:27:17.760Z",
-            "name": "Adversary Bravo",
-            "description": "Adversary Bravo is a threat actor that utilizes phishing attacks.",
+            "name": "Shipping Threat Actor",
+            "description": "Shipping threat actor is known to use phishing attacks to deliver remote access malware to the maritime soft targets",
             "identity_class": "unknown"
         },
         {
