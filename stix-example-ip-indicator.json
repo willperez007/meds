@@ -1,0 +1,44 @@
+  "objects": [
+        {
+
+            "type": "identity",
+
+            "id": "identity--f431f809-377b-45e0-aa1c-6a4751cae5ff",
+
+            "identity_class": "organization",
+
+            "name": "ACME Corp, Inc.",
+
+            "created": "2018-01-17T11:11:13.000Z",
+
+            "modified": "2018-01-17T11:11:13.000Z"
+
+        },
+
+        {
+
+            "type": "indicator",
+
+            "id": "indicator--12fd1bad-8306-4ed4-8c9b-7dfdd8ad5eb8",
+
+            "name": "Bad IP1",
+
+            "description": "IPv4 Indicator",
+
+            "created_by_ref": "identity--f431f809-377b-45e0-aa1c-6a4751cae5ff",
+
+            "created": "2018-01-17T11:11:13.000Z",
+
+            "modified": "2018-01-17T11:11:13.000Z",
+
+            "valid_from": "2018-01-01T00:00:00.000Z",
+
+            "labels": ["malicious-activity"],
+
+            "pattern": "[ipv4-addr:value = '198.51.100.1']"
+
+            "x_interop_test": "STIX/TAXII 2.0 Interoperability Part 1, §2.2.3.1,​Indicator IPv4 Address",
+
+        }
+
+  ]
