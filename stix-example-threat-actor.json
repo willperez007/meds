@@ -9,7 +9,7 @@
             "created": "2015-05-07T14:22:14.760Z",
             "modified": "2015-05-07T14:22:14.760Z",
             "name": "Shipping Threat Actor",
-            "description": "Shipping threat actor is known to use phishing attacks to deliver remote access malware to the maritime soft targets.",
+            "description": "Shipping threat actor is known to use phishing attacks to deliver remote access malware to maritime soft targets.",
             "threat_actor_types": [
                 "spy",
                 "criminal"
@@ -63,7 +63,7 @@
             "created": "2015-05-10T16:27:17.760Z",
             "modified": "2015-05-10T16:27:17.760Z",
             "name": "Shipping Threat Actor",
-            "description": "Shipping threat actor is known to use phishing attacks to deliver remote access malware to the maritime soft targets",
+            "description": "Shipping threat actor is known to use phishing attacks to deliver remote access malware to maritime soft targets",
             "identity_class": "unknown"
         },
         {
